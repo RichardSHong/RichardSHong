@@ -15,7 +15,7 @@
 ## HONORS
 - Upsilon Pi Epsilon
 - Golden Key International Honour Society
-- Graduated Cum Laude, __Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY__
+- Graduated Cum Laude, _Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY_
 
 
 
