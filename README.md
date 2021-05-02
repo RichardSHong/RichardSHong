@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=adc0d8&height=300&section=header&text=Richard&nbsp;&nbsp;Hong&fontSize=90&fontColor=fffbde)
 
+#### Contact
+Richard.Hong@drexel.edu
+
 ## Tech Skills
 
 - Programming Languages: Python, Java, SAS with SAS 9.0 BASE certification 
