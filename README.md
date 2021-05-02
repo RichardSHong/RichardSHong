@@ -8,6 +8,8 @@
 - Software: SAS Viewer, SAS Log Checker, CDISC Validator, MS-Office
 - Visualization tools: Carrot2, RAWGraphics, Tableau, Gephi, CiteSpace, Orange, Jigsaw, Alluvial Generator
 
+## EDUCATION
+ - _Drexel University_, Philadelphia, PA
 
 
 
