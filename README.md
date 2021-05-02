@@ -10,7 +10,7 @@
 
 ## EDUCATION
  - __Drexel University__, _Philadelphia, PA_
- - __Master of Data Science in Computing & Informatics__, ___Cumulative GPA: 3.88___
+ - __Master of Data Science in Computing & Informatics__, ___Cumulative GPA: 3.88___, Graduation: March 2021
 
 ## HONORS
 - Upsilon Pi Epsilon
