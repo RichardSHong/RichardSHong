@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=adc0d8&height=300&section=header&text=Richard&nbsp;&nbsp;Hong&fontSize=90&fontColor=fffbde)
 
-<h3 aligh="center"> Tech Skills </h3>
+## Tech Skills
 
 - Programming Languages: Python, Java, SAS with SAS 9.0 BASE certification 
 - Databases: MySQL, PostgreSQL, Oracle
