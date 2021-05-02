@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=adc0d8&height=300&section=header&text=Richard&nbsp;&nbsp;Hong&fontSize=90&fontColor=fffbde)
 
 <h3 aligh="center"> Tech Skills </h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+• Programming Languages: Python, Java, SAS with SAS 9.0 BASE certification 
+• Databases: MySQL, PostgreSQL, Oracle
+• Tools: Git, Bash, LaTeX, SSH
+• Software: SAS 9, SAS Viewer, SAS Log Checker, CDISC Validator, MS-Office
+• Visualization tools: Carrot2, RAWGraphics, Tableau, Gephi, CiteSpace, Orange, Jigsaw, Alluvial Generator
+
 
 
 <!--
