@@ -20,11 +20,11 @@
 ## Relevant Coursework 
 - Acquisition and Pre-Processing of Data                       
 - Analysis and Interpretation of Data
-- Machine Learning                                             
+- Machine Learning  
+- Applied Machine Learning for Data Science                                           
 - Data Mining
 - Database Management Systems                                  
-- Advanced Programming Techniques
-- Applied Machine Learning for Data Sci                        
+- Advanced Programming Techniques                       
 - Information Visualization
 - Healthcare Informatics
 
