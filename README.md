@@ -10,7 +10,14 @@
 
 ## EDUCATION
  - __Drexel University__, _Philadelphia, PA_
- - Master of Data Science in Computing & Informatics, ___Cumulative GPA: 3.88___
+ - __Master of Data Science in Computing & Informatics__, ___Cumulative GPA: 3.88___
+
+## HONORS
+- Upsilon Pi Epsilon
+- Golden Key International Honour Society
+- Graduated Cum Laude, __Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY__
+
+
 
 
 
