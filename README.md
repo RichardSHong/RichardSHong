@@ -5,12 +5,11 @@
 - Programming Languages: Python, Java, SAS with SAS 9.0 BASE certification 
 - Databases: MySQL, PostgreSQL, Oracle
 - Tools: Git, Bash, LaTeX, SSH
-- Software: SAS 9, SAS Viewer, SAS Log Checker, CDISC Validator, MS-Office
+- Software: SAS Viewer, SAS Log Checker, CDISC Validator, MS-Office
 - Visualization tools: Carrot2, RAWGraphics, Tableau, Gephi, CiteSpace, Orange, Jigsaw, Alluvial Generator
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
+
 
 <!--
 **RichardSHong/RichardSHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
