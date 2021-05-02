@@ -15,10 +15,7 @@ Richard.Hong@drexel.edu
  - __Drexel University__, _Philadelphia, PA_
  - __Master of Data Science in Computing & Informatics__, ___Cumulative GPA: 3.88___, Graduation: March 2021
 
-## HONORS
-- Upsilon Pi Epsilon
-- Golden Key International Honour Society
-- Graduated Cum Laude, _Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY_
+
 
 ## Relevant Coursework 
 - Acquisition and Pre-Processing of Data                       
@@ -31,7 +28,10 @@ Richard.Hong@drexel.edu
 - Information Visualization
 - Healthcare Informatics
 
-
+## HONORS
+- Upsilon Pi Epsilon
+- Golden Key International Honour Society
+- Graduated Cum Laude, _Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY_
 
 <!--
 **RichardSHong/RichardSHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
