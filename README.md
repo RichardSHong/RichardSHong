@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Richard_Hong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=adc0d8&height=300&section=header&text=Richard_Hong&fontSize=90)
 ### Hi there 👋
 
 
