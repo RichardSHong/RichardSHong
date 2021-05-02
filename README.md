@@ -9,7 +9,8 @@
 - Visualization tools: Carrot2, RAWGraphics, Tableau, Gephi, CiteSpace, Orange, Jigsaw, Alluvial Generator
 
 ## EDUCATION
- - _Drexel University_, Philadelphia, PA
+ - __Drexel University__, _Philadelphia, PA_
+ - Master of Data Science in Computing & Informatics, ___Cumulative GPA: 3.88___
 
 
 
