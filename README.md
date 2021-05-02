@@ -18,10 +18,14 @@
 - Graduated Cum Laude, _Bachelor of Art in Music, CITY COLLEGE OF NEW YORK, NEW YORK, NY_
 
 ## Relevant Coursework 
-- Acquisition and Pre-Processing of Data                       - Analysis and Interpretation of Data
-- Machine Learning                                             - Data Mining
-- Database Management Systems                                  - Advanced Programming Techniques
-- Applied Machine Learning for Data Sci                        - Information Visualization
+- Acquisition and Pre-Processing of Data                       
+- Analysis and Interpretation of Data
+- Machine Learning                                             
+- Data Mining
+- Database Management Systems                                  
+- Advanced Programming Techniques
+- Applied Machine Learning for Data Sci                        
+- Information Visualization
 - Healthcare Informatics
 
 
